@@ -1,2 +1,2 @@
-# ANGRY-BIRD-5
-KILL THE ENEMY AND GET ANOTHER SHOT BY PRESSING SPACE KEY
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
